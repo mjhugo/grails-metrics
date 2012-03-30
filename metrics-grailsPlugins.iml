@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="web" name="GrailsWeb">
+      <configuration>
+        <webroots>
+          <root url="file://$USER_HOME$/.grails/2.0.1/projects/metrics/plugins/code-coverage-1.2.5/web-app" relative="/" />
+          <root url="file://$USER_HOME$/.grails/2.0.1/projects/metrics/plugins/jquery-1.7.1/web-app" relative="/" />
+        </webroots>
+        <sourceRoots />
+      </configuration>
+    </facet>
+    <facet type="hibernate" name="Hibernate">
+      <configuration>
+        <datasource-map />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$USER_HOME$/.grails/2.0.1/projects/metrics/plugins/code-coverage-1.2.5">
+      <sourceFolder url="file://$USER_HOME$/.grails/2.0.1/projects/metrics/plugins/code-coverage-1.2.5/grails-app/i18n" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.grails/2.0.1/projects/metrics/plugins/codenarc-0.16.1" />
+    <content url="file://$USER_HOME$/.grails/2.0.1/projects/metrics/plugins/hibernate-2.0.1" />
+    <content url="file://$USER_HOME$/.grails/2.0.1/projects/metrics/plugins/jquery-1.7.1">
+      <sourceFolder url="file://$USER_HOME$/.grails/2.0.1/projects/metrics/plugins/jquery-1.7.1/src/groovy" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.grails/2.0.1/projects/metrics/plugins/jquery-1.7.1/grails-app/i18n" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.grails/2.0.1/projects/metrics/plugins/jquery-1.7.1/grails-app/services" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.grails/2.0.1/projects/metrics/plugins/jquery-1.7.1/grails-app/taglib" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.grails/2.0.1/projects/metrics/plugins/jslint-0.3" />
+    <content url="file://$USER_HOME$/.grails/2.0.1/projects/metrics/plugins/resources-1.1.6">
+      <sourceFolder url="file://$USER_HOME$/.grails/2.0.1/projects/metrics/plugins/resources-1.1.6/src/java" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.grails/2.0.1/projects/metrics/plugins/resources-1.1.6/src/groovy" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.grails/2.0.1/projects/metrics/plugins/resources-1.1.6/grails-app/i18n" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.grails/2.0.1/projects/metrics/plugins/resources-1.1.6/grails-app/taglib" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.grails/2.0.1/projects/metrics/plugins/tomcat-2.0.1" />
+    <content url="file://$USER_HOME$/.grails/2.0.1/projects/metrics/plugins/webxml-1.4.1">
+      <sourceFolder url="file://$USER_HOME$/.grails/2.0.1/projects/metrics/plugins/webxml-1.4.1/src/groovy" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="Grails 2.0.1" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="grails-2.0.1" level="application" />
+    <orderEntry type="module-library" exported="">
+      <library name="Grails User Library (metrics-grailsPlugins)">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.grails/ivy-cache/com.googlecode.jslint4java/jslint4java-ant/jars/jslint4java-ant-1.4.2.jar!/" />
+          <root url="jar://$USER_HOME$/.grails/ivy-cache/com.beust/jcommander/jars/jcommander-1.7.jar!/" />
+          <root url="jar://$USER_HOME$/.grails/ivy-cache/rhino/js/jars/js-1.7R1.jar!/" />
+          <root url="jar://$USER_HOME$/.grails/ivy-cache/com.googlecode.jslint4java/jslint4java/jars/jslint4java-1.4.2.jar!/" />
+          <root url="jar://$USER_HOME$/.grails/ivy-cache/org.apache.ant/ant-launcher/jars/ant-launcher-1.7.0.jar!/" />
+          <root url="jar://$USER_HOME$/.grails/ivy-cache/org.apache.ant/ant/jars/ant-1.7.0.jar!/" />
+          <root url="jar://$USER_HOME$/.grails/ivy-cache/asm/asm-tree/jars/asm-tree-3.0.jar!/" />
+          <root url="jar://$USER_HOME$/.grails/ivy-cache/net.sourceforge.cobertura/cobertura/jars/cobertura-1.9.4.1.jar!/" />
+          <root url="jar://$USER_HOME$/.grails/ivy-cache/org.gmetrics/GMetrics/jars/GMetrics-0.4.jar!/" />
+          <root url="jar://$USER_HOME$/.grails/ivy-cache/org.codenarc/CodeNarc/jars/CodeNarc-0.16.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
+
